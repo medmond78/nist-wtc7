@@ -1,0 +1,9 @@
+mv *Fl14*.int ..
+mv *Fl13*.int ..
+mv *Fl12*.int ..
+mv *Fl11*.int ..
+mv *Fl10*.int ..
+mv *Fl09*.int ..
+mv *Fl08*.int ..
+mv *Fl07*.int ..
+mv *.int ..
